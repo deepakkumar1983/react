@@ -37,5 +37,5 @@ function App() {
     </>
   )
 }
-// Test sync changes
+
 export default App
